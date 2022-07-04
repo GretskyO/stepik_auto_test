@@ -1,1 +1,8 @@
-# stepik_auto_test
+#Прохождение курса по автоматизации тестирования
+
+----
+
+## stepik_auto_test
+
+----
+#[Ссылка на курс ](https://stepik.org/course/575/promo#toc "Кто навел, тот молодец")
